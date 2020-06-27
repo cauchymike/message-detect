@@ -1,1 +1,1 @@
-This  is just a website that predicts if a message is spam or not.
+This  is just a website that predicts loan interest level
